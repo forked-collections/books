@@ -12,3 +12,7 @@
 - [Real-World Machine Learning](https://drive.google.com/open?id=1UBa_RZs78StdJbOkQv2SoopzO_gOFXAD)
 - Machine Learning Systems
 - Deep Learning with PyTorch 
+
+## PacktPub
+
+- [Building Machine Learning Systems](https://learning.oreilly.com/library/view/building-machine-learning/9781788623223/)
