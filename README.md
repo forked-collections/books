@@ -24,3 +24,7 @@
 ## DevOps
 
 - [Mastering Kubernetes](https://learning.oreilly.com/library/view/kubernetes-cookbook-2nd/9781788837606)
+
+## uServices
+
+- [Python uServices](https://learning.oreilly.com/library/view/python-microservices-development/9781785881114/)
