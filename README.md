@@ -17,5 +17,10 @@
 
 - [Building Machine Learning Systems](https://learning.oreilly.com/library/view/building-machine-learning/9781788623223/)
 
-## O'Reilly/Safari
+## Timeseries
 - [Practical TimeSeries Analysis](https://learning.oreilly.com/library/view/practical-time-series/9781492041641)
+
+
+## DevOps
+
+- [Mastering Kubernetes](https://learning.oreilly.com/library/view/kubernetes-cookbook-2nd/9781788837606)
