@@ -16,3 +16,6 @@
 ## PacktPub
 
 - [Building Machine Learning Systems](https://learning.oreilly.com/library/view/building-machine-learning/9781788623223/)
+
+## O'Reilly/Safari
+- [Practical TimeSeries Analysis](https://learning.oreilly.com/library/view/practical-time-series/9781492041641)
